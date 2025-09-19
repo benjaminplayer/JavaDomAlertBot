@@ -4,7 +4,7 @@ Dormatory Alert Bot is a java console program, which outputs the users data from
 ## Usage
 [Firstly download the latest release of the program](https://github.com/benjaminplayer/JavaDomAlertBot/releases/tag/v.1.0.0), then:
 ### Compile the program manually
-Post the following command into the powershell terminal to compile the program and its dependencies:
+Paste the following command into the powershell terminal to compile the program and its dependencies:
 ```ps1
 javac -cp ".;lib\pdfbox-app-2.0.34.jar;lib\poi-bin-5.2.3\*;lib\poi-bin-5.2.3\auxiliary\*;lib\poi-bin-5.2.3\lib\*;lib\poi-bin-5.2.3\ooxml-lib\*" Bot.java
 ```
