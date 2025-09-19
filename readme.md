@@ -2,6 +2,7 @@
 ## About
 Dormatory Alert Bot is a java console program, which outputs the users data from dormatory listing on www.sdl.si.
 ## Usage
+[Firstly download the latest release of the program](https://github.com/benjaminplayer/JavaDomAlertBot/releases/tag/v.1.0.0), then:
 ### Compile the program manually
 Post the following command into the powershell terminal to compile the program and its dependencies:
 ```ps1
